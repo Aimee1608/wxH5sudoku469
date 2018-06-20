@@ -1,0 +1,48 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"miniprogramRoot": "./dist/",
+	"compileType": "miniprogram",
+	"appid": "touristappid",
+	"projectname": "mpsudoku469H5%E5%92%8C%E5%BE%AE%E4%BF%A1",
+	"scripts": {
+		"beforeCompile": "npm run dev",
+		"beforePreview": "",
+		"beforeUpload": ""
+	},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 0,
+			"list": [
+				{
+					"id": 0,
+					"name": "mpvue编辑",
+					"pathName": "pages/home/main",
+					"query": ""
+				}
+			]
+		}
+	}
+}

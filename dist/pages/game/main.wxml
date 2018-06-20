@@ -1,0 +1,1 @@
+<import src="../../components/game$9040bfce" /><template is="game$9040bfce" data="{{ ...$root['0'], $root }}"/>
